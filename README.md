@@ -1,4 +1,4 @@
-## Hi 👋, I'm Mattia
+## Hi, I'm Mattia! 👋
 ### A passionate Software Developer from Italy 🇮🇹
 
 - 🔭 I’m currently working on **my first iOS app for the App Store**
