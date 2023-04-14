@@ -1,7 +1,7 @@
 ## Hi, I'm Mattia! 👋
 ### A passionate Software Developer from Italy 🇮🇹
 
-- 🔭 I’m currently working on **my first iOS app for the App Store**
+- 🚀 I’m currently working on **my first iOS app for the App Store**
 
 - 👨🏻‍💻 I’m currently working at **[BlueIT](http://www.blueit.it/) as a Software Developer**
 
