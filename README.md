@@ -3,7 +3,7 @@
 
 - 🚀 In my spare time I'm the Co-Founder of **[Loopable](https://loopable.it)**
 
-- 👨🏻‍💻 I’m currently working at **[BlueIT](http://www.blueit.it/) as a Software Developer**
+- 👨🏻‍💻 I’m currently working at **[NTT DATA Italy](https://it.nttdata.com/) as a iOS Developer**
 
 - 💬 Ask me about **Swift, iOS Development, TypeScript, Python**
 
