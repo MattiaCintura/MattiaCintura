@@ -1,5 +1,4 @@
 ## Hi, I'm Mattia! 👋
-### A passionate Software Developer from Italy 🇮🇹
 
 - 🚀 In my spare time I'm the Co-Founder of **[Loopable](https://loopable.it)**
 
