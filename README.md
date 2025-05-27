@@ -1,7 +1,5 @@
 ## Hi, I'm Mattia! 👋
 
-- 🚀 In my spare time I'm the Co-Founder of **[Loopable](https://loopable.it)**
-
 - 👨🏻‍💻 I’m currently working at **[NTT DATA Italy](https://it.nttdata.com/) as an iOS Engineer**
 
 - 💬 Ask me about **Swift, iOS Development, TypeScript, Python**
